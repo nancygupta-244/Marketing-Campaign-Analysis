@@ -46,10 +46,17 @@ MntFruits: Amount spent on fruits products in the last 2 years
 MntSweetProducts: Amount spent on sweet products in the last 2 years
 
 MntWines: Amount spent on wine products in the last 2 years
+
 MntGoldProds: Amount spent on gold products in the last 2 years
+
 NumDealsPurchases: Number of purchases made with discount
+
 NumCataloguePurchases: Number of purchases made using catalogue
+
 NumStorePurchases: Number of purchases made directly in stores
+
 NumWebPurchases: Number of purchases made through company’s website
+
 NumWebVisitMonth: Number of visits to company’s website in the last month
+
 Recency: Number of days since the last purchases
